@@ -2,7 +2,7 @@
     - [Work](work.md)
     - [Writing](writing.md)
     - [About](about.md)
- 
+ ![Meand mirror](img/photo_2022-10-10_19-12-35.jpg)
  About me:
       
 I moved to the Czech Republic almost 5 years ago. While studying landscape design and urbanism at university, I realized that it was not my thing, that I wanted to connect my life with art, that I wanted to create. Shortly before enrolling, I bought my first analog camera. And that was it! I realized that photography is my passion, the Covid of course really hindered this, but I still found opportunities! 
