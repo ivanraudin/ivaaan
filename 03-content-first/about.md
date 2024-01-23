@@ -3,6 +3,7 @@
     - [Writing](writing.md)
     - [About](about.md)
  
+ About me:
       
 I moved to the Czech Republic almost 5 years ago. While studying landscape design and urbanism at university, I realized that it was not my thing, that I wanted to connect my life with art, that I wanted to create. Shortly before enrolling, I bought my first analog camera. And that was it! I realized that photography is my passion, the Covid of course really hindered this, but I still found opportunities! 
 I take my photographs on film cameras and on digital cameras.  But film is in my heart. Developing, scanning, enlarging photos by hand gives me an incredible sense of satisfaction and belonging to what I do. 
