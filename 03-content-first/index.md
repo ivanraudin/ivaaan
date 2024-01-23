@@ -10,3 +10,4 @@ Student at VŠKK FA - Audiovisual arts and photography.
 
 ### You can find me on:
 - [instagram](https://www.instagram.com/truepavuk/)
+- [my web](https://raudin.wixsite.com/photography)
