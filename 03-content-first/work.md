@@ -3,3 +3,5 @@
     - [Writing](writing.md)
     - [About](about.md)
 ## MY WORK
+
+![1](2022-03-24-0001 копия.jpg)
