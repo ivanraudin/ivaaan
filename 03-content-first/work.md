@@ -4,6 +4,6 @@
     - [About](about.md)
 ## MY WORK
 
-![1](img/photo_2022-03-24-0001 копия.jpg)
-409_062022.JPG
-![solt bw](img/409_062022.JPG)
+![1](img/_2022-03-24-0001копия.jpg)
+
+![knifes](img/409_062022.JPG)
