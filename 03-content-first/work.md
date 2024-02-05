@@ -4,7 +4,7 @@
     - [About](about.md)
 ## MY WORK
 
-[**People**]
+## **People**
 [I dont really into shooting people. As I write erlier, I prefer architekture, lines, stability etc. But for sure making photos of people could be fun even for me. Here you can see some examples.]
 [My best friend Soltan. Made in studio]
 ![solt bw 1](img/2022-03-24-00012.jpg)
