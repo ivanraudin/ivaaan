@@ -6,4 +6,4 @@
 
 ![1](img/photo_2022-03-24-0001 копия.jpg)
 409_062022.JPG
-![solt bw](img/photo409_062022.JPG)
+![solt bw](img/409_062022.JPG)
